@@ -1,0 +1,65 @@
+## Week 0 Pre-course
+- Course Survey: https://>>>
+- Programming Basics:
+	- [Linux terminal tutorial](http://linuxcommand.org/index.php)
+	- [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+- Register Accounts:
+	- [GitHub](https://github.com/) / [Education (Students)](https://education.github.com/students)
+	- [Chameleon Cloud](https://www.chameleoncloud.org/)
+
+## Week 1 Sep 9
+### Learning topic: Why this course?
+
+
+## Week 2 Sep 16
+### Learning topic: Knowledge graph and Resource Description Framework
+### Data topic:
+
+## Week 3 Sep 23
+### Learning topic: Open data policy
+### Data topic:
+
+## Week 4 Sep 30
+### Learning topic: High-performance cloud computing
+### Data topic:
+
+## Week 5 Oct 7
+### Learning topic: Parallel computing
+### Data topic
+
+## Week 6 Oct 14
+### Learning topic: Network analysis: basic concepts
+### Data topic
+
+## Week 7 Oct 21
+### Learning topic: Network analysis: analysis of nodes
+### Data topic
+
+## Week 8 Oct 28
+### Learning topic: Network analysis: analysis of communities
+### Data topic
+
+## Week 9 Nov 4
+### Learning topic: Text analysis: regular expression
+### Data topic
+
+## Week 10 Nov 11
+### Learning topic: Text analysis: basic NLP
+### Data topic
+
+## Week 11 Nov 18
+### Learning topic: Text analysis: basic topic modeling
+### Data topic: 
+
+## Week 12 Nov 25
+### Learning topic: Text classification using Naive Bayes
+### Data topic:
+
+## Week 13 Dec 2
+### Learning topic: Text classification using neural networks
+### Data topic:
+
+## Week 14 Dec 9
+### Learning topic:
+### Data topic:
+
