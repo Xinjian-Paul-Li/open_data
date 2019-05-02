@@ -9,7 +9,7 @@
 	- [GitHub](https://github.com/) / [Education (Students)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 
-## Week 1 Sep 9 <a name="w1"></a>
+## <a name="w1"></a> Week 1 Sep 9
 Learning topic: Why this course?
 
 
