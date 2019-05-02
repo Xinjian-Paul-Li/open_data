@@ -9,5 +9,8 @@
 5. After submission, release your IP and server to other users (if you don't need to use it).
 
 ### Assignment 2: Parallel computing (individual)
+1. Install [`htop`](https://hisham.hm/htop/);
+2. Parallelize a job.
+
 ### Assignment 3: Analysis of social networks (individual/group)
 ### Assignment 4: Analysis of trends using topic modeling (individual/group)
