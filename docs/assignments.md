@@ -1,3 +1,5 @@
+## Assignments
+
 ### Assignment 1: Create your own cloud computing server (individual)
 1. Create a 48-core VM using [ChameleonCloud](https://www.chameleoncloud.org/);
 2. Install [Anaconda Python](https://www.anaconda.com/distribution/);
