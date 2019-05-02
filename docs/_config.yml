@@ -18,6 +18,6 @@ sass:
 
 navbar:
  - name: "About"
-   link: "about"
+   link: "index"
  - name: "Resume"
    link: "resume.pdf"
