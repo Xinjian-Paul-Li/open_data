@@ -6,7 +6,7 @@
 3. Run a [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) server with password and SSL for encrypted communication;
 4. Login your Jupyter Notebook/JupyterLab server through web-browser;
 5. Open a terminal in Jupyter, save a image of your server, then submit a screenshot through Canvas;
-5. After submission, release your IP and server to other users (if you don't need to use it).
+5. After submission, release your IP and server to other users (if you don't use).
 
 ### Assignment 2: Parallel computing (individual)
 1. Install [`htop`](https://hisham.hm/htop/);
