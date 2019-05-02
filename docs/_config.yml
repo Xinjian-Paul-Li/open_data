@@ -17,7 +17,7 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
-   link: "index"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Course Schedule"
+   link: "course_schedule"
+ - name: "Assignment"
+   link: "assignment"
