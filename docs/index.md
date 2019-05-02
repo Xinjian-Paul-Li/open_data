@@ -1,6 +1,6 @@
 ## Course Description
 
-This course introduces methodologies for linked open data and computational social science. The first part of this course is theory-oriented and covers concepts in linking data and open data policies. You will also learn how to use high-performance cloud computing resources (https://www.tacc.utexas.edu/systems/chameleon). The second part is analysis-oriented and covers network analysis, text analysis, and text classification using neural networks. Meanwhile, we will introduce Awesome Public Datasets (https://github.com/awesomedata/awesome-public-datasets) according to the class’s interests. Each of you will present a dataset by your selection. The final part is challenge-oriented. You will form groups to complete a challenge as your final project. 
+This course introduces methodologies for linked open data and computational social science. The first part of this course is theory-oriented and covers concepts in linking data and open data policies. You will also learn how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part is analysis-oriented and covers network analysis, text analysis, and text classification using neural networks. Meanwhile, we will introduce [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) according to the class’s interests. Each of you will present a dataset by your selection. The final part is challenge-oriented. You will form groups to complete a challenge as your final project. 
 
 Although programming is an essential part of this course, the course schedule and reading materials are framed within a social science context. We will be coding for social good.
 
@@ -11,8 +11,8 @@ Although programming is an essential part of this course, the course schedule an
 
 ### Recommended online tutorials
 
-1. If you don't have any Python programming experience, take this course first: https://www.coursera.org/learn/python (you can audit this course for free). 
-2. You should be familiar with all the topics covered by this tutorial before class: https://www.learnpython.org/ .
+1. If you don't have any Python programming experience, [take this course first](https://www.coursera.org/learn/python) (you can audit this course for free). 
+2. You should be familiar with all the topics covered by [this tutorial](https://www.learnpython.org/) before class.
 
 ### Grading
 40% assignments, 20% presentation of datasets, and 40% final project.
