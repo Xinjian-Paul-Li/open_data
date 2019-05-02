@@ -19,5 +19,5 @@ sass:
 navbar:
  - name: "Course Schedule"
    link: "course_schedule"
- - name: "Assignment"
-   link: "assignment"
+ - name: "Assignments"
+   link: "assignments"
