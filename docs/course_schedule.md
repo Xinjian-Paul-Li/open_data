@@ -1,6 +1,6 @@
-[Week 1](#w0)	Week 2	Week 3	Week 4	Week 5	Week 6	Week 7	Week 8	Week 9	Week 10	Week 11	Week 12	Week 13	Week 14	Week 15
+[Week 0](#w0) [Week 1 Sep 9](#w1)	Week 2	Week 3	Week 4	Week 5	Week 6	Week 7	Week 8	Week 9	Week 10	Week 11	Week 12	Week 13	Week 14	Week 15
 
-## <a name="w0"></a> Week 0 Pre-course
+## Week 0 Pre-course <a name="w0"></a>
 - Course Survey: https://>>>
 - Programming Basics:
 	- [Linux terminal tutorial](http://linuxcommand.org/index.php)
@@ -9,7 +9,7 @@
 	- [GitHub](https://github.com/) / [Education (Students)](https://education.github.com/students)
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 
-## Week 1 Sep 9
+## Week 1 Sep 9 <a name="w1"></a>
 Learning topic: Why this course?
 
 
