@@ -17,6 +17,4 @@ Although programming is an essential part of this course, the course schedule an
 ### Grading
 40% assignments, 20% presentation of datasets, and 40% final project.
 
-## Assignments
-
-## Course Schedule
+*** Office Hour: [Please sign up here](#)
