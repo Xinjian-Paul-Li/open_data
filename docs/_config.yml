@@ -1,4 +1,4 @@
-title: Linked Open Data and Computational Social Science Methods
+title: Linked Open Data and Computational Social Science Methods (PA 397C / INF 385T)
 author: Ji Ma@UT Austin
 subtitle: LBJ School of Public Affairs
 
@@ -21,5 +21,7 @@ navbar:
    link: "course_schedule"
  - name: "Assignments"
    link: "assignments"
+ - name: "Final"
+   link: "final"
  - name: "home"
    link: "index"
