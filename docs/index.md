@@ -1,7 +1,13 @@
 ## Course Description
 
 - Instructor: Ji Ma
-- Office Hour: [Please sign up here](#)
+- Office Hour
+<html>
+	<!-- Calendly inline widget begin -->
+	<div class="calendly-inline-widget" data-url="https://calendly.com/maji/30min?hide_event_type_details=1" style="min-width:320px;height:580px;"></div>
+	<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+	<!-- Calendly inline widget end -->
+</html>
 
 ---
 This course introduces methodologies for linked open data and computational social science. The first part of this course is theory-oriented and covers concepts in linking data and open data policies. You will also learn how to use [high-performance cloud computing resources](https://www.tacc.utexas.edu/systems/chameleon). The second part is analysis-oriented and covers network analysis, text analysis, and text classification using neural networks. Meanwhile, we will introduce [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) according to the class’s interests. Each of you will present a dataset by your selection. The final part is challenge-oriented. You will form groups to complete a challenge as your final project. 
