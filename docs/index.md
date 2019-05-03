@@ -1,6 +1,6 @@
 ## Course Description
 
-- Instructor: Ji Ma
+- Instructor: [Ji Ma](http://jima.me)
 
 - <html>
 		<!-- Calendly link widget begin -->
