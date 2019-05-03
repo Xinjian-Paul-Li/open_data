@@ -1,4 +1,7 @@
-# Parchment
+{{md /course_schedule.md }} 
+
+
+<!-- # Parchment
 A clean, single column blog template built for jekyll
 
 ## Usage
@@ -29,3 +32,4 @@ Parchment is inspired from the resume theme
 
 ## License
 [GNU GPL v3](LICENSE)
+ -->
