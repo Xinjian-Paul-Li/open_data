@@ -1,4 +1,4 @@
-{{md /course_schedule.md }} 
+{{md ../course_schedule.md }} 
 
 
 <!-- # Parchment
