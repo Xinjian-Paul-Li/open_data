@@ -1,4 +1,4 @@
-{{md ../course_schedule.md }} 
+### [Linked Open Data and Computational Social Science Methods (PA 397C / INF 385T)](https://ma-ji.github.io/open_data/)
 
 
 <!-- # Parchment
