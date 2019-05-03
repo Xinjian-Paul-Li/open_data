@@ -10,7 +10,9 @@
 
 ### Assignment 2: Parallel computing (individual)
 1. Install [`htop`](https://hisham.hm/htop/);
-2. Parallelize a job.
+2. Define a function to clean, process, or analyze a large dataset of your interest;
+3. Compare the efficiency of serial computing to that of parallel computing;
+4. Use a Notebook to complete this assignment, submit the GitHub link of your Notebook through Canvas.
 
 ### Assignment 3: Analysis of social networks (individual/group)
 ### Assignment 4: Analysis of trends using topic modeling (individual/group)
