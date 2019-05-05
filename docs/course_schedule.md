@@ -1,6 +1,8 @@
 ## Course Schedule
 [Week 0](#w0) [Week 1 (Sep 9)](#w1)	[Week 2 (Sep 16)](#w2)	[Week 3 (Sep 23)](#w3)	[Week 4 (Sep 30)](#w4)	Week 5	Week 6	Week 7	Week 8	Week 9	Week 10	Week 11	Week 12	Week 13	Week 14	Week 15
 
+[Reading Materials](#)
+
 ---
 ### <a name="w0"></a> Week 0 Pre-course
 - Course Survey: https://>>>
