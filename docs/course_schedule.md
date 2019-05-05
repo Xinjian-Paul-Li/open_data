@@ -16,10 +16,7 @@
 - Readings:
 	- Lazer, David, Alex Pentland, Lada Adamic, Sinan Aral, Albert-László Barabási, Devon Brewer, Nicholas Christakis, et al. 2009. “Computational Social Science.” Science 323 (5915): 721–23. https://doi.org/10.1126/science.1167742.
 	- Cioffi-Revilla, Claudio. 2017. Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
-- Course review:
-	- Syllabus;
-	- Assignments;
-	- Final project.
+- Course review: Syllabus, assignments, final project.
 
 ### <a name="w2"></a> Week 2 Sep 16
 #### Learning topic: Knowledge graph and Resource Description Framework
@@ -42,6 +39,9 @@
 
 ### <a name="w5"></a> Week 5 Oct 7
 #### Learning topic: Parallel computing
+- Readings:
+	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
+
 #### Data topic
 
 ### <a name="w6"></a> Week 6 Oct 14
