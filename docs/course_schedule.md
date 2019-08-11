@@ -27,7 +27,7 @@
 - Software packages:
 	- Yu, Shih Yuan, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, and Mohammad Abdullah Al Faruque. 2019. “Pykg2vec: A Python Library for Knowledge Graph Embedding.” ArXiv:1906.04239 [Cs, Stat], June. http://arxiv.org/abs/1906.04239.
 	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043.
-- In-class practice: How can you use knowledge graph and RDF to solve a real-world problem?
+- Group discussion: How can you use knowledge graph and RDF to solve a real-world problem?
 - Hands-on:
 	- Start a VM on [Chameleon Cloud](https://www.chameleoncloud.org/)
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
@@ -41,19 +41,20 @@
 	- Wilson, Greg, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, et al. 2014. “Best Practices for Scientific Computing.” PLOS Biology 12 (1): e1001745. https://doi.org/10.1371/journal.pbio.1001745.
 	- Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.
 
-
 #### Data topic:
 
+
 ### <a name="w4"></a> Week 4 Sep 30
-#### Learning topic: High-performance cloud computing
+#### Learning topic: High-performance cloud computing and parallel computing
+- Readings:
+	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
+
 - [Getting started with Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 #### Data topic:
 
 ### <a name="w5"></a> Week 5 Oct 7
-#### Learning topic: Parallel computing
-- Readings:
-	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
+#### Learning topic: TBD
 
 #### Data topic
 
