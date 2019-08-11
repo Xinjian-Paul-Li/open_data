@@ -23,6 +23,11 @@
 ### <a name="w2"></a> Week 2 Sep 16
 #### Learning topic: Knowledge graph and Resource Description Framework
 - Readings:
+	- Miller, Eric J. 2001. “An Introduction to the Resource Description Framework.” Journal of Library Administration 34 (3–4): 245–55. https://doi.org/10.1300/J111v34n03_04.
+- Software packages:
+	- Yu, Shih Yuan, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, and Mohammad Abdullah Al Faruque. 2019. “Pykg2vec: A Python Library for Knowledge Graph Embedding.” ArXiv:1906.04239 [Cs, Stat], June. http://arxiv.org/abs/1906.04239.
+	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043.
+- In-class practice: How can you use knowledge graph and RDF to solve a real-world problem?
 - Hands-on:
 	- Start a VM on [Chameleon Cloud](https://www.chameleoncloud.org/)
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
