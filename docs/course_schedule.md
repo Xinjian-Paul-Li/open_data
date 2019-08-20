@@ -46,6 +46,7 @@
 
 ### <a name="w4"></a> Week 4 Sep 30
 #### Learning topic: High-performance cloud computing and parallel computing
+- Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
 - Readings:
 	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
 
