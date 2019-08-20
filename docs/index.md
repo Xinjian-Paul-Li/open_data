@@ -1,12 +1,13 @@
 ## Course Description
 
 - Instructor: [Prof. Ji Ma](http://jima.me)
+- Tuesday 9:00AM to 12:00PM | SRH 3.316/3.350
 
 - <html>
 		<!-- Calendly link widget begin -->
 		<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 		<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-		<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/maji/30min'});return false;">Office Hours</a>
+		<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/maji/20min'});return false;">Office Hours</a>
 		<!-- Calendly link widget end -->
   </html>
 
