@@ -21,6 +21,8 @@ navbar:
    link: "course_schedule"
  - name: "Assignments"
    link: "assignments"
+ - name: "Data Topic"
+   link: "data_topic"
  - name: "Final"
    link: "final"
  - name: "home"

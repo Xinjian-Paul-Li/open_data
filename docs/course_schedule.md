@@ -54,20 +54,20 @@
 #### Data topic:
 
 ### <a name="w5"></a> Week 5 Oct 7
-#### Learning topic: TBD
+#### Learning topic: Network analysis: basic concepts
 
 #### Data topic
 
 ### <a name="w6"></a> Week 6 Oct 14
-#### Learning topic: Network analysis: basic concepts
-#### Data topic
-
-### <a name="w7"></a> Week 7 Oct 21
 #### Learning topic: Network analysis: analysis of nodes
 #### Data topic
 
-### <a name="w8"></a> Week 8 Oct 28
+### <a name="w7"></a> Week 7 Oct 21
 #### Learning topic: Network analysis: analysis of communities
+#### Data topic
+
+### <a name="w8"></a> Week 8 Oct 28
+#### Learning topic: Final project workday, no class.
 #### Data topic
 
 ### <a name="w9"></a> Week 9 Nov 4
