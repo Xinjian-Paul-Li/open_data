@@ -1,7 +1,7 @@
 ## Course Description
 
 - Instructor: [Prof. Ji Ma](http://jima.me)
-- Tuesday 9:00AM to 12:00PM | SRH 3.316/3.350
+- Tuesday 9:00AM to 12:00PM, SRH 3.316/3.350
 
 - <html>
 		<!-- Calendly link widget begin -->
