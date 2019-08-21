@@ -29,10 +29,11 @@ Knowledge and skills practiced:
 ### Assignment 3: Parallel computing (individual, 5% points)
 
 Tasks:
-1. Install [`htop`](https://hisham.hm/htop/);
-2. Define a function to clean, process, or analyze a large dataset of your interest;
-3. Compare the efficiency of serial computing to that of parallel computing;
-4. Submit a screenshot of `htop` showing all cores are crunching numbers.
+1. Start a Jupyter server as you did in Assignment#2;
+2. Install [`htop`](https://hisham.hm/htop/);
+3. Define a function to clean, process, or analyze a large dataset of your interest;
+4. Compare the efficiency of serial computing to that of parallel computing;
+5. Submit a screenshot of `htop` showing all cores are crunching numbers.
 
 Knowledge and skills practiced:
 - Using command line terminal and Linux system.
