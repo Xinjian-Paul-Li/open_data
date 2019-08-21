@@ -3,9 +3,14 @@
 
 ### Assignment 1: Complete data topic page (individual, 5% points)
 
+Tasks:
 1. Complete the sign-up sheet.
 2. Find a dataset of your interest and a related academic paper.
 3. Checkout the course website, edit the data topic page accordingly, and create a pull request.
+
+Knowledge and skills practiced:
+1. Use of GitHub;
+2. Markdown language.
 
 ### Assignment 2: Create your own cloud computing server (individual, 10% points)
 
