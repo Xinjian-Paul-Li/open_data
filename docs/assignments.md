@@ -36,7 +36,8 @@ Tasks:
 5. Submit a screenshot of `htop` showing all cores are crunching numbers.
 
 Knowledge and skills practiced:
-- Using command line terminal and Linux system.
+- Using cloud computing platform;
+- Using command line terminal and Linux system;
 - Python programming: parallel computing.
 
 ### Assignment 4: Analysis of social networks (individual/group, 10% points)
