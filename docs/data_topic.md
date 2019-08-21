@@ -11,7 +11,7 @@ Checkout this page, edit accordingly, and create a pull request.
 
 ---
 
-### Week 3: [Your data topic](https://example_data_topic.com).
+### <a name="w3"></a> Week 3: [Your data topic](https://example_data_topic.com).
 
 #### Dataset Introduction
 
