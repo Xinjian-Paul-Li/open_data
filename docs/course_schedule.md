@@ -5,7 +5,7 @@
 
 ---
 ### <a name="w0"></a> Week 0 Pre-course
-- Course Survey: https://>>>
+- [Complete course survey](https://utexas.instructure.com/courses/1261330/quizzes/1295833)
 - Programming Basics:
 	- [Linux terminal tutorial](http://linuxcommand.org/index.php)
 	- [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
@@ -19,6 +19,7 @@
 	- Lazer, David, Alex Pentland, Lada Adamic, Sinan Aral, Albert-László Barabási, Devon Brewer, Nicholas Christakis, et al. 2009. “Computational Social Science.” Science 323 (5915): 721–23. https://doi.org/10.1126/science.1167742.
 	- Cioffi-Revilla, Claudio. 2017. Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 - Course review: Syllabus, assignments, final project.
+- Assignment 1 due this week's Sunday.
 
 ### <a name="w2"></a> Week 2 Sep 16
 #### Learning topic: Knowledge graph and Resource Description Framework
@@ -32,6 +33,7 @@
 	- Start a VM on [Chameleon Cloud](https://www.chameleoncloud.org/)
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
 	- Save [VM image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
+- Assignment 2 due this week's Sunday.
 
 
 ### <a name="w3"></a> Week 3 Sep 23
@@ -51,6 +53,7 @@
 	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
 
 - [Getting started with Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
+- Assignment 3 due this week's Sunday.
 
 #### Data topic:
 
@@ -65,6 +68,8 @@
 
 ### <a name="w7"></a> Week 7 Oct 21
 #### Learning topic: Network analysis: analysis of communities
+- Assignment 4 due this week's Sunday.
+
 #### Data topic
 
 ### <a name="w8"></a> Week 8 Oct 28
@@ -85,6 +90,8 @@
 
 ### <a name="w11"></a> Week 11 Nov 18
 #### Learning topic: Text analysis: basic topic modeling
+- Assignment 5 due this week's Sunday.
+
 #### Data topic: 
 
 ### <a name="w12"></a> Week 12 Nov 25
