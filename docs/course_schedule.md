@@ -20,9 +20,9 @@ Text analysis in social sciences
 
 - [Week 10 Nov 11: Text analysis - regular expression and basic NLP (TBD)](#w10)
 - [Week 11 Nov 18: Text analysis - basic topic modeling (TBD)](#w11)
-- [Week 12 Nov 25: Text analysis - (TBD)](#12)
-- [Week 13 Dec 2: Text analysis - Text classification (TBD)](#13)
-- [Week 14 Dec 9: Text analysis - Example social science studies (TBD)](#14)
+- [Week 12 Nov 25: Text analysis - (TBD)](#w12)
+- [Week 13 Dec 2: Text analysis - Text classification (TBD)](#w13)
+- [Week 14 Dec 9: Text analysis - Example social science studies (TBD)](#w14)
 
 [Reading Materials on Google Drive](#)
 
