@@ -173,6 +173,14 @@ Text analysis in social sciences
 ---
 ### <a name="w9"></a> Week 9 Nov 4: Network analysis - Example social science studies
 
+#### Before class
+- Readings:
+	- Heemskerk, Eelke M., and Frank W. Takes. 2016. “The Corporate Elite Community Structure of Global Capitalism.” New Political Economy 21 (1): 90–118. https://doi.org/10.1080/13563467.2015.1041483.
+
+#### In class
+- Discussion and lecture on readings.
+- Data topic: TBD
+
 
 ---
 ### <a name="w10"></a> Week 10 Nov 11: Text analysis - Fundamentals and lexical resources
