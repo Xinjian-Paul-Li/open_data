@@ -92,14 +92,15 @@
 - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
 - Data topic: TBD
 - Hands-on:
-	- Install `htop` (not easy):
-		```	
+	- Let's use [JupyterHub Server](https://chameleoncloud.readthedocs.io/en/latest/technical/jupyter.html) on Chameleon Cloud.
+	- Install [`htop`](https://hisham.hm/htop/) (not easy):
+		```
 		$ sudo apt-get update
-		$ sudo apt-get install build-essential  
+		$ sudo apt-get install build-essential
 		$ sudo apt-get install libncurses5-dev libncursesw5-dev
-		$ wget http_link_to_htop
-		$ tar xvfvz htop-***.tar.gz
-		$ cd htop-***
+		$ wget https://hisham.hm/htop/releases/2.2.0/htop-2.2.0.tar.gz
+		$ tar xvfvz htop-2.2.0.tar.gz
+		$ cd htop-2.2.0
 		$ ./configure; make; sudo make install
 		```
 	- Define a function then parallel a job.
