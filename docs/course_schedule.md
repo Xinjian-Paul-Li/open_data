@@ -18,10 +18,10 @@ Network analysis in social sciences
 
 Text analysis in social sciences
 
-- [Week 10 Nov 11: Text analysis - regular expression and basic NLP (TBD)](#w10)
-- [Week 11 Nov 18: Text analysis - basic topic modeling (TBD)](#w11)
-- [Week 12 Nov 25: Text analysis - (TBD)](#w12)
-- [Week 13 Dec 2: Text analysis - Text classification (TBD)](#w13)
+- [Week 10 Nov 11: Text analysis - Fundamentals and lexical resources (TBD)](#w10)
+- [Week 11 Nov 18: Text analysis - Preprocessing and vectorization (TBD)](#w11)
+- [Week 12 Nov 25: Text analysis - Classification (TBD)](#w12)
+- [Week 13 Dec 2: Text analysis - Context aware and relation extraction (TBD)](#w13)
 - [Week 14 Dec 9: Text analysis - Example social science studies (TBD)](#w14)
 
 [Reading Materials on Google Drive](#)
@@ -175,11 +175,16 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w10"></a> Week 10 Nov 11: Text analysis - regular expression and basic NLP
+### <a name="w10"></a> Week 10 Nov 11: Text analysis - Fundamentals and lexical resources
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
 	- Jurafsky, Daniel, and James H. Martin. 2017. “Regular Expressions, Text Normalization, Edit Distance.” In Speech and Language Processing, 3rd draft. https://web.stanford.edu/~jurafsky/slp3/.
+	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Building a Custom Corpus.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+	- ———. 2018b. “Language and Computation.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Accessing Text Corpora and Lexical Resources.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
+	- ———. 2009b. “Language Processing and Python.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
+
 
 #### In class
 - Discussion and lecture on readings.
@@ -188,11 +193,14 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w11"></a> Week 11 Nov 18: Text analysis - basic topic modeling
+### <a name="w11"></a> Week 11 Nov 18: Text analysis - Preprocessing and vectorization
+
 #### Before class
 - Readings:
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- ———. 2018b. “Text Vectorization and Transformation Pipelines.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009a. “Categorizing and Tagging Words.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
+	- ———. 2009b. “Preprocessing Raw Text.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=415520.
 
 #### In class
 - Discussion and lecture on readings.
@@ -201,7 +209,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w12"></a> Week 12 Nov 25: Text analysis - TBD.
+### <a name="w12"></a> Week 12 Nov 25: Text analysis - Classification
 #### Before class
 #### In class
 - Data topic: TBD
@@ -211,8 +219,13 @@ Text analysis in social sciences
  
 
 ---
-### <a name="w13"></a> Week 13 Dec 2: Text analysis - Text classification
+### <a name="w13"></a> Week 13 Dec 2: Text analysis - Context aware and relation extraction
+
 #### Before class
+- Readings:
+	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Context-Aware Text Analysis.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018. “Graph Analysis of Text.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+
 #### In class
 - Data topic: TBD
 - Hands-on practice.
