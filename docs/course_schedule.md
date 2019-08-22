@@ -7,22 +7,22 @@ Knowledge and hands-on fundamentals
 - [Week 2 Sep 16: Knowledge graph and Resource Description Framework](#w2)
 - [Week 3 Sep 23: Open data policy and good enough research practice (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
+- [Week 5 Oct 7: Web crawling and research pipeline (TBD)](#w5)
 
-Network analysis in social science
+Network analysis in social sciences
 
-- [Week 5 Oct 7: Network analysis - basic concepts (TBD)](#w5)
-- [Week 6 Oct 14: Network analysis - analysis of nodes (TBD)](#w6)
-- [Week 7 Oct 21: Network analysis - analysis of communities (TBD)](#w7)
-- [Week 8 Oct 28: (TBD)](#w8)
+- [Week 6 Oct 14: Network analysis - basic concepts (TBD)](#w6)
+- [Week 7 Oct 21: Network analysis - analysis of nodes (TBD)](#w7)
+- [Week 8 Oct 28: Network analysis - analysis of communities (TBD)](#w8)
+- [Week 9 Nov 4: Network analysis - Example social science studies (TBD)](#w9)
 
-Text analysis in social science
+Text analysis in social sciences
 
-- [Week 9 Nov 4: Text analysis - regular expression and basic NLP (TBD)](#w9)
-- [Week 10 Nov 11: Text analysis - basic topic modeling (TBD)](#w10)
-- [Week 11 Nov 18: Text analysis - (TBD)](#w11)
-- [Week 12 Nov 25: Text classification using Naive Bayes (TBD)](#12)
-- [Week 13 Dec 2: Text classification using neural networks (TBD)](#13)
-- [Week 14 Dec 9: (TBD)](#14)
+- [Week 10 Nov 11: Text analysis - regular expression and basic NLP (TBD)](#w10)
+- [Week 11 Nov 18: Text analysis - basic topic modeling (TBD)](#w11)
+- [Week 12 Nov 25: Text analysis - (TBD)](#12)
+- [Week 13 Dec 2: Text analysis - Text classification (TBD)](#13)
+- [Week 14 Dec 9: Text analysis - Example social science studies (TBD)](#14)
 
 [Reading Materials on Google Drive](#)
 
@@ -119,7 +119,10 @@ Text analysis in social science
 
 
 ---
-### <a name="w5"></a> Week 5 Oct 7: Network analysis - basic concepts
+### <a name="w5"></a> Week 5 Oct 7: Web crawling and research pipeline
+
+
+### <a name="w6"></a> Week 6 Oct 14: Network analysis - basic concepts
 
 #### Before class
 - Readings:
@@ -139,7 +142,7 @@ Text analysis in social science
 
 
 ---
-### <a name="w6"></a> Week 6 Oct 14: Network analysis - analysis of nodes
+### <a name="w7"></a> Week 7 Oct 21: Network analysis - analysis of nodes
 
 #### Before class
 - Readings:
@@ -152,7 +155,7 @@ Text analysis in social science
 
 
 ---
-### <a name="w7"></a> Week 7 Oct 21: Network analysis - analysis of communities
+### <a name="w8"></a> Week 8 Oct 28: Network analysis - analysis of communities
 
 #### Before class
 - Readings:
@@ -168,11 +171,11 @@ Text analysis in social science
 
 
 ---
-### <a name="w8"></a> Week 8 Oct 28: TBD.
+### <a name="w9"></a> Week 9 Nov 4: Network analysis - Example social science studies
 
 
 ---
-### <a name="w9"></a> Week 9 Nov 4: Text analysis - regular expression and basic NLP
+### <a name="w10"></a> Week 10 Nov 11: Text analysis - regular expression and basic NLP
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
@@ -185,7 +188,7 @@ Text analysis in social science
 
 
 ---
-### <a name="w10"></a> Week 10 Nov 11: Text analysis - basic topic modeling
+### <a name="w11"></a> Week 11 Nov 18: Text analysis - basic topic modeling
 #### Before class
 - Readings:
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
@@ -198,7 +201,7 @@ Text analysis in social science
 
 
 ---
-### <a name="w11"></a> Week 11 Nov 18: Text analysis - TBD.
+### <a name="w12"></a> Week 12 Nov 25: Text analysis - TBD.
 #### Before class
 #### In class
 - Data topic: TBD
@@ -208,7 +211,7 @@ Text analysis in social science
  
 
 ---
-### <a name="w12"></a> Week 12 Nov 25: Text classification using Naive Bayes
+### <a name="w13"></a> Week 13 Dec 2: Text analysis - Text classification
 #### Before class
 #### In class
 - Data topic: TBD
@@ -216,15 +219,9 @@ Text analysis in social science
 
 
 ---
-### <a name="w13"></a> Week 13 Dec 2: Text classification using neural networks
+### <a name="w14"></a> Week 14 Dec 9: Text analysis - Example social science studies
 #### Before class
 #### In class
 - Data topic: TBD
 - Hands-on practice.
 
-
----
-### <a name="w14"></a> Week 14 Dec 9
-#### Before class
-#### In class
-- Data topic: TBD
