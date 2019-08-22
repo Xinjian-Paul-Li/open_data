@@ -8,9 +8,9 @@
 - [Week 6 Oct 14: Network analysis - analysis of nodes (TBD)](#w6)
 - [Week 7 Oct 21: Network analysis - analysis of communities (TBD)](#w7)
 - [Week 8 Oct 28: (TBD)](#w8)
-- [Week 9 Nov 4: Text analysis - regular expression (TBD)](#w9)
-- [Week 10 Nov 11: Text analysis - basic NLP (TBD)](#w10)
-- [Week 11 Nov 18: Text analysis - basic topic modeling (TBD)](#w11)
+- [Week 9 Nov 4: Text analysis - regular expression and basic NLP (TBD)](#w9)
+- [Week 10 Nov 11: Text analysis - basic topic modeling (TBD)](#w10)
+- [Week 11 Nov 18: Text analysis - (TBD)](#w11)
 - [Week 12 Nov 25: Text classification using Naive Bayes (TBD)](#12)
 - [Week 13 Dec 2: Text classification using neural networks (TBD)](#13)
 - [Week 14 Dec 9: (TBD)](#14)
@@ -119,7 +119,9 @@
 	- Scott, John. 2017. “Organising and Analysing Network Data.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 
 #### In class
+- Discussion and lecture on readings.
 - Data topic: TBD
+- Hands-on practice.
 
 #### After class
 - Further readings:
@@ -135,7 +137,9 @@
 	- Scott, John. 2017. “Popularity Mediation and Exclusion.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 
 #### In class
-- Data topic
+- Discussion and lecture on readings.
+- Data topic: TBD
+- Hands-on practice.
 
 
 ---
@@ -146,7 +150,9 @@
 	- Colizza, V., A. Flammini, M. A. Serrano, and A. Vespignani. 2006. “Detecting Rich-Club Ordering in Complex Networks.” Nature Physics 2 (2): 110–15. https://doi.org/10.1038/nphys209.
 
 #### In class
+- Discussion and lecture on readings.
 - Data topic: TBD
+- Hands-on practice.
 
 #### After class
 - <span style="color:red">**Assignment 4 due this week's Sunday.**</span>
@@ -157,29 +163,33 @@
 
 
 ---
-### <a name="w9"></a> Week 9 Nov 4: Text analysis - regular expression
+### <a name="w9"></a> Week 9 Nov 4: Text analysis - regular expression and basic NLP
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
 	- Jurafsky, Daniel, and James H. Martin. 2017. “Regular Expressions, Text Normalization, Edit Distance.” In Speech and Language Processing, 3rd draft. https://web.stanford.edu/~jurafsky/slp3/.
 
 #### In class
+- Discussion and lecture on readings.
 - Data topic: TBD
+- Hands-on practice.
 
 
 ---
-### <a name="w10"></a> Week 10 Nov 11: Text analysis - basic NLP
+### <a name="w10"></a> Week 10 Nov 11: Text analysis - basic topic modeling
 #### Before class
 - Readings:
 	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 	- ———. 2018b. “Text Vectorization and Transformation Pipelines.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 
 #### In class
+- Discussion and lecture on readings.
 - Data topic: TBD
+- Hands-on practice.
 
 
 ---
-### <a name="w11"></a> Week 11 Nov 18: Text analysis - basic topic modeling
+### <a name="w11"></a> Week 11 Nov 18: Text analysis - TBD.
 #### Before class
 #### In class
 - Data topic: TBD
@@ -193,6 +203,7 @@
 #### Before class
 #### In class
 - Data topic: TBD
+- Hands-on practice.
 
 
 ---
@@ -200,6 +211,7 @@
 #### Before class
 #### In class
 - Data topic: TBD
+- Hands-on practice.
 
 
 ---
@@ -207,4 +219,3 @@
 #### Before class
 #### In class
 - Data topic: TBD
-
