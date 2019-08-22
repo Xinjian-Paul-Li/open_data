@@ -1,6 +1,6 @@
 ## Course Schedule
-- [Week 0 Pre-course (TBD)](#w0)
-- [Week 1 Sep 9: Why this course? (TBD)](#w1)
+- [Week 0 Pre-course](#w0)
+- [Week 1 Sep 9: Why this course?](#w1)
 - [Week 2 Sep 16: Knowledge graph and Resource Description Framework (TBD)](#w2)
 - [Week 3 Sep 23: Open data policy and good enough research practice (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
@@ -37,10 +37,12 @@
 	- Cioffi-Revilla, Claudio. 2017. Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 
 ### In class
+- Discussion and lecture on readings.
 - Course review: Syllabus, assignments, final project.
 
 ### After class
 - <span style="color:red">**Assignment 1 due this week's Sunday.**</span>
+- [Be familiar with "Getting started with Chameleon Cloud"](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 
 ---
@@ -54,11 +56,12 @@
 	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043.
 
 #### In class
+- Discussion and lecture on readings.
 - Group discussion: How can you use knowledge graph and RDF to solve a real-world problem?
 - Hands-on:
-	- Start a VM on [Chameleon Cloud](https://www.chameleoncloud.org/)
-	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
-	- Save [VM image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
+	- Start an instance on [Chameleon Cloud](https://www.chameleoncloud.org/): 1) book a lease, 2) setup a network interface for remote access, 3) start an instance.
+	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html).
+	- Snapshot the instance [as an image](https://chameleoncloud.readthedocs.io/en/latest/technical/images.html).
 
 #### After class
 - <span style="color:red">**Assignment 2 due this week's Sunday.**</span>
@@ -74,6 +77,7 @@
 	- Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.
 
 #### In class
+- Discussion and lecture on readings.
 - Data topic: [example data topic and link](https://ma-ji.github.io/open_data/data_topic/#d3)
 
 
@@ -83,11 +87,22 @@
 #### Before class
 - Readings:
 	- Czech, Zbigniew J. 2017. “Concurrent Processes.” In Introduction to Parallel Computing, 1–34. Cambridge University Press.
-	- [Getting started with Chameleon Cloud](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html)
 
 #### In class
 - Visit [Texas Advanced Computing Center](https://www.tacc.utexas.edu/).
 - Data topic: TBD
+- Hands-on:
+	- Install `htop` (not easy):
+		```	
+		$ sudo apt-get update
+		$ sudo apt-get install build-essential  
+		$ sudo apt-get install libncurses5-dev libncursesw5-dev
+		$ wget http_link_to_htop
+		$ tar xvfvz htop-***.tar.gz
+		$ cd htop-***
+		$ ./configure; make; sudo make install
+		```
+	- Define a function then parallel a job.
 
 #### After class
 - <span style="color:red">**Assignment 3 due this week's Sunday.**</span>
