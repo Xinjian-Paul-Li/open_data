@@ -2,7 +2,7 @@
 - [Week 0 Pre-course (TBD)](#w0)
 - [Week 1 Sep 9: Why this course? (TBD)](#w1)
 - [Week 2 Sep 16: Knowledge graph and Resource Description Framework (TBD)](#w2)
-- [Week 3 Sep 23: Open data policy and good enough research practice for social (data) scientists (TBD)](#w3)
+- [Week 3 Sep 23: Open data policy and good enough research practice (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
 - [Week 5 Oct 7: Network analysis - basic concepts (TBD)](#w5)
 - [Week 6 Oct 14: Network analysis - analysis of nodes (TBD)](#w6)
@@ -65,7 +65,7 @@
 
 
 ---
-### <a name="w3"></a> Week 3 Sep 23: Open data policy and good enough research practice for social (data) scientists
+### <a name="w3"></a> Week 3 Sep 23: Open data policy and good enough research practice
 
 #### Before class
 - Readings:
