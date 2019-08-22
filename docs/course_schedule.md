@@ -14,6 +14,7 @@
 	- [Chameleon Cloud](https://www.chameleoncloud.org/)
 
 
+---
 ### <a name="w1"></a> Week 1 Sep 9: Why this course?
 
 #### Before class
@@ -27,6 +28,8 @@
 ### After class
 - <span style="color:red">**Assignment 1 due this week's Sunday.**</span>
 
+
+---
 ### <a name="w2"></a> Week 2 Sep 16: Knowledge graph and Resource Description Framework
 
 #### Before class
@@ -47,6 +50,7 @@
 - <span style="color:red">**Assignment 2 due this week's Sunday.**</span>
 
 
+---
 ### <a name="w3"></a> Week 3 Sep 23: Open data policy and good enough research practice for social (data) scientists
 
 #### Before class
@@ -59,6 +63,7 @@
 - Data topic: [example data topic and link](https://ma-ji.github.io/open_data/data_topic/#d3)
 
 
+---
 ### <a name="w4"></a> Week 4 Sep 30: High-performance cloud computing and parallel computing
 
 #### Before class
@@ -74,6 +79,7 @@
 - <span style="color:red">**Assignment 3 due this week's Sunday.**</span>
 
 
+---
 ### <a name="w5"></a> Week 5 Oct 7: Network analysis - basic concepts
 
 #### Before class
@@ -91,6 +97,7 @@
 	- Scott, John. 2017. “The History of Social Network Analysis.” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
 
 
+---
 ### <a name="w6"></a> Week 6 Oct 14: Network analysis - analysis of nodes
 
 #### Before class
@@ -100,6 +107,8 @@
 #### In class
 - Data topic
 
+
+---
 ### <a name="w7"></a> Week 7 Oct 21: Network analysis - analysis of communities
 
 #### Before class
@@ -113,8 +122,11 @@
 - <span style="color:red">**Assignment 4 due this week's Sunday.**</span>
 
 
+---
 ### <a name="w8"></a> Week 8 Oct 28: Final project workday, no class.
 
+
+---
 ### <a name="w9"></a> Week 9 Nov 4: Text analysis - regular expression
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
@@ -125,11 +137,14 @@
 - Data topic: TBD
 
 
+---
 ### <a name="w10"></a> Week 10 Nov 11: Text analysis - basic NLP
 #### Before class
 #### In class
 - Data topic: TBD
 
+
+---
 ### <a name="w11"></a> Week 11 Nov 18: Text analysis - basic topic modeling
 #### Before class
 #### In class
@@ -139,16 +154,21 @@
 - <span style="color:red">**Assignment 5 due this week's Sunday.**</span>
  
 
+---
 ### <a name="w12"></a> Week 12 Nov 25: Text classification using Naive Bayes
 #### Before class
 #### In class
 - Data topic: TBD
 
+
+---
 ### <a name="w13"></a> Week 13 Dec 2: Text classification using neural networks
 #### Before class
 #### In class
 - Data topic: TBD
 
+
+---
 ### <a name="w14"></a> Week 14 Dec 9
 #### Before class
 #### In class
