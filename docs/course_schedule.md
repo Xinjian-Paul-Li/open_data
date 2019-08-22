@@ -1,7 +1,21 @@
 ## Course Schedule
-[Week 0](#w0) [Week 1 (Sep 9)](#w1)	[Week 2 (Sep 16)](#w2)	[Week 3 (Sep 23)](#w3)	[Week 4 (Sep 30)](#w4)	Week 5	Week 6	Week 7	Week 8	Week 9	Week 10	Week 11	Week 12	Week 13	Week 14	Week 15
+- [Week 0 Pre-course (TBD)](#w0)
+- [Week 1 Sep 9: Why this course? (TBD)](#w1)
+- [Week 2 Sep 16: Knowledge graph and Resource Description Framework (TBD)](#w2)
+- [Week 3 Sep 23: Open data policy and good enough research practice for social (data) scientists (TBD)](#w3)
+- [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
+- [Week 5 Oct 7: Network analysis - basic concepts (TBD)](#w5)
+- [Week 6 Oct 14: Network analysis - analysis of nodes (TBD)](#w6)
+- [Week 7 Oct 21: Network analysis - analysis of communities (TBD)](#w7)
+- [Week 8 Oct 28: (TBD)](#w8)
+- [Week 9 Nov 4: Text analysis - regular expression (TBD)](#w9)
+- [Week 10 Nov 11: Text analysis - basic NLP (TBD)](#w10)
+- [Week 11 Nov 18: Text analysis - basic topic modeling (TBD)](#w11)
+- [Week 12 Nov 25: Text classification using Naive Bayes (TBD)](#12)
+- [Week 13 Dec 2: Text classification using neural networks (TBD)](#13)
+- [Week 14 Dec 9: (TBD)](#14)
 
-[Reading Materials](#)
+[Reading Materials on Google Drive](#)
 
 ---
 ### <a name="w0"></a> Week 0 Pre-course
@@ -123,7 +137,7 @@
 
 
 ---
-### <a name="w8"></a> Week 8 Oct 28: Final project workday, no class.
+### <a name="w8"></a> Week 8 Oct 28: TBD.
 
 
 ---
@@ -140,6 +154,10 @@
 ---
 ### <a name="w10"></a> Week 10 Nov 11: Text analysis - basic NLP
 #### Before class
+- Readings:
+	- Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. 2018a. “Corpus Preprocessing and Wrangling.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+	- ———. 2018b. “Text Vectorization and Transformation Pipelines.” In Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning, 1 edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+
 #### In class
 - Data topic: TBD
 
