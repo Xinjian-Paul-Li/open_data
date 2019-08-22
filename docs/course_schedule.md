@@ -1,13 +1,22 @@
 ## Course Schedule
 - [Week 0 Pre-course](#w0)
+
+Knowledge and hands-on fundamentals
+
 - [Week 1 Sep 9: Why this course?](#w1)
 - [Week 2 Sep 16: Knowledge graph and Resource Description Framework (TBD)](#w2)
 - [Week 3 Sep 23: Open data policy and good enough research practice (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
+
+Network analysis in social science
+
 - [Week 5 Oct 7: Network analysis - basic concepts (TBD)](#w5)
 - [Week 6 Oct 14: Network analysis - analysis of nodes (TBD)](#w6)
 - [Week 7 Oct 21: Network analysis - analysis of communities (TBD)](#w7)
 - [Week 8 Oct 28: (TBD)](#w8)
+
+Text analysis in social science
+
 - [Week 9 Nov 4: Text analysis - regular expression and basic NLP (TBD)](#w9)
 - [Week 10 Nov 11: Text analysis - basic topic modeling (TBD)](#w10)
 - [Week 11 Nov 18: Text analysis - (TBD)](#w11)
@@ -57,7 +66,7 @@
 
 #### In class
 - Discussion and lecture on readings.
-- Group discussion: How can you use knowledge graph and RDF to solve a real-world problem?
+- Group discussion: How can you use knowledge graph and RDF to solve a social science problem?
 - Hands-on:
 	- Start an instance on [Chameleon Cloud](https://www.chameleoncloud.org/): 1) book a lease, 2) setup a network interface for remote access, 3) start an instance.
 	- Install [Anaconda Python](https://www.anaconda.com/distribution/) and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)/[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html).
