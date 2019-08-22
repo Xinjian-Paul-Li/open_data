@@ -14,15 +14,15 @@ Network analysis in social sciences
 - [Week 6 Oct 14: Network analysis - basic concepts (TBD)](#w6)
 - [Week 7 Oct 21: Network analysis - analysis of nodes (TBD)](#w7)
 - [Week 8 Oct 28: Network analysis - analysis of communities (TBD)](#w8)
-- [Week 9 Nov 4: Network analysis - Example social science studies (TBD)](#w9)
+- [Week 9 Nov 4: Network analysis - Example studies in social sciences (TBD)](#w9)
 
 Text analysis in social sciences
 
 - [Week 10 Nov 11: Text analysis - Fundamentals and lexical resources (TBD)](#w10)
 - [Week 11 Nov 18: Text analysis - Preprocessing and vectorization (TBD)](#w11)
-- [Week 12 Nov 25: Text analysis - Classification (TBD)](#w12)
+- [Week 12 Nov 25: Text analysis - Topic modeling and classification (TBD)](#w12)
 - [Week 13 Dec 2: Text analysis - Context aware and relation extraction (TBD)](#w13)
-- [Week 14 Dec 9: Text analysis - Example social science studies (TBD)](#w14)
+- [Week 14 Dec 9: Text analysis - Example studies in social sciences (TBD)](#w14)
 
 [Reading Materials on Google Drive](#)
 
@@ -209,7 +209,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w12"></a> Week 12 Nov 25: Text analysis - Classification
+### <a name="w12"></a> Week 12 Nov 25: Text analysis - Topic modeling and classification
 #### Before class
 #### In class
 - Data topic: TBD
