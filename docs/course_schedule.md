@@ -59,6 +59,10 @@
 
 ### <a name="w5"></a> Week 5 Oct 7
 #### Learning topic: Network analysis: basic concepts
+- Readings:
+	- Scott, John. 2017. “What Is Social Network Analysis?” In Social Network Analysis, Fourth edition. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Scott, John. 2017. “Terminology for Network Analysis.” In Social Network Analysis, Fourth edition, 73–94. Thousand Oaks, CA: SAGE Publications Ltd.
+	- Freeman, Linton C. 2011. “The Development of Social Network Analysis – with an Emphasis on Recent Events.” In The SAGE Handbook of Social Network Analysis, by John Scott and Peter Carrington, 26–39. 1 Oliver’s Yard,  55 City Road,  London    EC1Y 1SP  United Kingdom: SAGE Publications Ltd.
 
 #### Data topic
 
