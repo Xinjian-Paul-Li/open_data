@@ -234,6 +234,10 @@ Text analysis in social sciences
 ---
 ### <a name="w14"></a> Week 14 Dec 9: Text analysis - Example social science studies
 #### Before class
+- Readings:
+	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
+	- Hollibaugh, Gary E. 2018. “The Use of Text as Data Methods in Public Administration: A Review and an Application to Agency Priorities.” Journal of Public Administration Research and Theory. https://doi.org/10.1093/jopart/muy045.
+
 #### In class
 - Data topic: TBD
 - Hands-on practice.
