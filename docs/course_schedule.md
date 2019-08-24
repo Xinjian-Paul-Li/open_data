@@ -7,7 +7,7 @@ Knowledge and hands-on fundamentals
 - [Week 2 Sep 16: Knowledge graph and Resource Description Framework](#w2)
 - [Week 3 Sep 23: Open data policy and good enough research practice (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
-- [Week 5 Oct 7: Web crawling and research pipeline (TBD)](#w5)
+- [Week 5 Oct 7: Algorithm and workflow for social scientists (TBD)](#w5)
 
 Network analysis in social sciences
 
@@ -119,9 +119,20 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w5"></a> Week 5 Oct 7: Web crawling and research pipeline
+### <a name="w5"></a> Week 5 Oct 7: Algorithm and workflow for social scientists
+
+#### Before class
+- Readings:
+	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Writing Structured Programs.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
+	- Cioffi-Revilla, Claudio. 2017a. “Automated Information Extraction.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
+	- ———. 2017b. “Computation and Social Science.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
+
+#### In class:
+- Discussion and lecture on readings.
+- Data topic: TBD
 
 
+---
 ### <a name="w6"></a> Week 6 Oct 14: Network analysis - basic concepts
 
 #### Before class
