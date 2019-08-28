@@ -1,7 +1,14 @@
 ## Assignments
+
+- [Assignment 1: Complete data topic page (individual, 5% points)](#a1)
+- [Assignment 2: Create your own cloud computing server (individual, 5% points)](#a2)
+- [Assignment 3: Parallel computing (individual, 5% points)](#a3)
+- [Assignment 4: Disambiguation using algorithm (individual/group, 15% points)](#a4)
+- [Assignment 5: Network / text analysis (individual/group, 10% points)](#a5)
+
 ---
 
-### Assignment 1: Complete data topic page (individual, 5% points)
+### <a name="a1"> Assignment 1: Complete data topic page (individual, 5% points) </a>
 
 Tasks:
 1. Complete the sign-up sheet.
@@ -12,7 +19,7 @@ Knowledge and skills practiced:
 - Using GitHub;
 - Markdown language.
 
-### Assignment 2: Create your own cloud computing server (individual, 10% points)
+### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
 
 Tasks:
 1. Create a 48-core VM on [ChameleonCloud](https://www.chameleoncloud.org/);
@@ -26,7 +33,7 @@ Knowledge and skills practiced:
 - Using cloud computing platform;
 - Using command line terminal and Linux system.
 
-### Assignment 3: Parallel computing (individual, 5% points)
+### <a name="a3"> Assignment 3: Parallel computing (individual, 5% points) </a>
 
 Tasks:
 1. Start a Jupyter server as you did in Assignment#2;
@@ -40,7 +47,7 @@ Knowledge and skills practiced:
 - Using command line terminal and Linux system;
 - Python programming: parallel computing.
 
-### Assignment 4: Disambiguation using algorithm (individual/group, 10% points)
+### <a name="a4"> Assignment 4: Disambiguation using algorithm (individual/group, 15% points) </a>
 
 Disambiguating entity is a common task in data preprocessing. For example, the University of Texas at Austin can be written as "UT Austin," "UT-Austin," or even "UTA." How can we recognize these records and give them a unique ID? This assignment will practice this ability.
 
@@ -54,7 +61,7 @@ The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/
 5. A detailed documentation of the rationale of the criteria and codes.
 
 
-### Assignment 5: Network / text analysis (individual/group, 10% points)
+### <a name="a5"> Assignment 5: Network / text analysis (individual/group, 10% points) </a>
 
 Choose an assignment of your interest:
 
