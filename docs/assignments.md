@@ -40,7 +40,24 @@ Knowledge and skills practiced:
 - Using command line terminal and Linux system;
 - Python programming: parallel computing.
 
-### Assignment 4: Analysis of social networks (individual/group, 10% points)
+### Assignment 4: Disambiguation using algorithm (individual/group, 10% points)
+
+Disambiguating entity is a common task in data preprocessing. For example, the University of Texas at Austin can be written as "UT Austin," "UT-Austin," or even "UTA." How can we recognize these records and give them a unique ID? This assignment will practice this ability.
+
+Tasks:
+The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/index.html), one of the largest bibliographical databases in the world. You are expected to:
+1. Generate a codebook of this dataset;
+2. Create criteria for disambiguating authors and affiliations.
+3. Explain why the criteria can generate valid results.
+3. Compile a function according to the criteria, run the function on records, and give unique IDs to these entities.
+4. Verify accuracy: choose a random sample and manually check the false positive and false negative rates.
+5. A detailed documentation of the rationale of the criteria and codes.
 
 
-### Assignment 5: Analysis of trends using topic modeling (individual/group, 10% points)
+### Assignment 5: Network / text analysis (individual/group, 10% points)
+
+Choose an assignment of your interest:
+
+#### Analysis of social networks 
+
+#### Analysis of trends using topic modeling (individual/group, 10% points)
