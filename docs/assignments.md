@@ -13,7 +13,7 @@
 Tasks:
 1. Complete the sign-up sheet.
 2. Find a dataset of your interest and a related academic paper.
-3. [Folk the course website](https://github.com/ma-ji/open_data), edit the [data topic page](https://ma-ji.github.io/open_data/data_topic/) accordingly, and create a pull request.
+3. [Folk the course website](https://github.com/ma-ji/open_data), edit the [data topic page](data_topic/) accordingly, and create a pull request.
 
 Knowledge and skills practiced:
 - Using GitHub;
