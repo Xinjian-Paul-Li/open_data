@@ -87,7 +87,7 @@ Text analysis in social sciences
 
 #### In class
 - Discussion and lecture on readings.
-- Data topic: [example data topic and link](/data_topic/#d3)
+- Data topic: [example data topic and link](/open_data/data_topic/#d3)
 
 
 ---
