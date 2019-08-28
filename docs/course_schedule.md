@@ -27,7 +27,7 @@ Text analysis in social sciences
 [Reading Materials on Google Drive](#)
 
 ---
-### <a name="w0"></a> Week 0 Pre-course
+### <a name="w0"> Week 0 Pre-course </a>
 - [Complete course survey](https://utexas.instructure.com/courses/1261330/quizzes/1295833)
 - Programming Basics:
 	- [Linux terminal tutorial](http://linuxcommand.org/index.php)
@@ -38,7 +38,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w1"></a> Week 1 Sep 9: Why this course?
+### <a name="w1"> Week 1 Sep 9: Why this course? </a>
 
 #### Before class
 - Readings:
@@ -55,7 +55,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w2"></a> Week 2 Sep 16: Knowledge graph and Resource Description Framework
+### <a name="w2"> Week 2 Sep 16: Knowledge graph and Resource Description Framework </a>
 
 #### Before class
 - Readings:
@@ -77,7 +77,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w3"></a> Week 3 Sep 23: Open data policy and good enough research practice
+### <a name="w3"> Week 3 Sep 23: Open data policy and good enough research practice </a>
 
 #### Before class
 - Readings:
@@ -91,7 +91,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w4"></a> Week 4 Sep 30: High-performance cloud computing and parallel computing
+### <a name="w4"> Week 4 Sep 30: High-performance cloud computing and parallel computing </a>
 
 #### Before class
 - Readings:
@@ -119,7 +119,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w5"></a> Week 5 Oct 7: Algorithm and workflow for social scientists
+### <a name="w5"> Week 5 Oct 7: Algorithm and workflow for social scientists </a>
 
 #### Before class
 - Readings:
@@ -133,7 +133,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w6"></a> Week 6 Oct 14: Network analysis - basic concepts
+### <a name="w6"> Week 6 Oct 14: Network analysis - basic concepts </a>
 
 #### Before class
 - Readings:
@@ -153,7 +153,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w7"></a> Week 7 Oct 21: Network analysis - analysis of nodes
+### <a name="w7"> Week 7 Oct 21: Network analysis - analysis of nodes </a>
 
 #### Before class
 - Readings:
@@ -166,7 +166,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w8"></a> Week 8 Oct 28: Network analysis - analysis of communities
+### <a name="w8"> Week 8 Oct 28: Network analysis - analysis of communities </a>
 
 #### Before class
 - Readings:
@@ -182,7 +182,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w9"></a> Week 9 Nov 4: Network analysis - Example social science studies
+### <a name="w9"> Week 9 Nov 4: Network analysis - Example social science studies </a>
 
 #### Before class
 - Readings:
@@ -194,7 +194,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w10"></a> Week 10 Nov 11: Text analysis - Fundamentals and lexical resources
+### <a name="w10"> Week 10 Nov 11: Text analysis - Fundamentals and lexical resources </a>
 #### Before class
 - [Complete all lessons on RegexOne](https://regexone.com/)
 - Readings:
@@ -212,7 +212,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w11"></a> Week 11 Nov 18: Text analysis - Preprocessing and vectorization
+### <a name="w11"> Week 11 Nov 18: Text analysis - Preprocessing and vectorization </a>
 
 #### Before class
 - Readings:
@@ -228,7 +228,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w12"></a> Week 12 Nov 25: Text analysis - Topic modeling and classification
+### <a name="w12"> Week 12 Nov 25: Text analysis - Topic modeling and classification </a>
 #### Before class
 #### In class
 - Data topic: TBD
@@ -238,7 +238,7 @@ Text analysis in social sciences
  
 
 ---
-### <a name="w13"></a> Week 13 Dec 2: Text analysis - Context aware and relation extraction
+### <a name="w13"> Week 13 Dec 2: Text analysis - Context aware and relation extraction </a>
 
 #### Before class
 - Readings:
@@ -251,7 +251,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w14"></a> Week 14 Dec 9: Text analysis - Example social science studies
+### <a name="w14"> Week 14 Dec 9: Text analysis - Example social science studies </a>
 #### Before class
 - Readings:
 	- Grimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028.
