@@ -5,7 +5,7 @@ Knowledge and hands-on fundamentals
 
 - [Week 1 Sep 9: Why this course?](#w1)
 - [Week 2 Sep 16: Knowledge graph and Resource Description Framework](#w2)
-- [Week 3 Sep 23: Open data policy and good enough research practice (TBD)](#w3)
+- [Week 3 Sep 23: Good enough research practices in scientific computing (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
 - [Week 5 Oct 7: Algorithm and workflow for social scientists (TBD)](#w5)
 
@@ -77,7 +77,7 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w3"> Week 3 Sep 23: Open data policy and good enough research practice </a>
+### <a name="w3"> Week 3 Sep 23: Good enough research practices in scientific computing </a>
 
 #### Before class
 - Readings:
