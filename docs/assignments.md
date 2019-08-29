@@ -7,7 +7,6 @@
 - [Assignment 5: Network / text analysis (individual/group, 10% points)](#a5)
 
 ---
-
 ### <a name="a1"> Assignment 1: Complete data topic page (individual, 5% points) </a>
 
 Tasks:
@@ -19,6 +18,7 @@ Knowledge and skills practiced:
 - Using GitHub;
 - Markdown language.
 
+---
 ### <a name="a2"> Assignment 2: Create your own cloud computing server (individual, 5% points) </a>
 
 Tasks:
@@ -33,6 +33,7 @@ Knowledge and skills practiced:
 - Using cloud computing platform;
 - Using command line terminal and Linux system.
 
+---
 ### <a name="a3"> Assignment 3: Parallel computing (individual, 5% points) </a>
 
 Tasks:
@@ -47,20 +48,22 @@ Knowledge and skills practiced:
 - Using command line terminal and Linux system;
 - Python programming: parallel computing.
 
+---
 ### <a name="a4"> Assignment 4: Disambiguation using algorithm (individual/group, 15% points) </a>
 
 Disambiguating entity is a common task in data preprocessing. For example, the University of Texas at Austin can be written as "UT Austin," "UT-Austin," or even "UTA." How can we recognize these records and give them a unique ID? This assignment will practice this ability.
 
 Tasks:
-The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/index.html), one of the largest bibliographical databases in the world. You are expected to:
+The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/index.html), one of the largest bibliographical databases in the world. Each line is a record of a published paper on nonprofit studies. You are expected to:
 1. Generate a codebook of this dataset;
 2. Create criteria for disambiguating authors and affiliations.
 3. Explain why the criteria can generate valid results.
 3. Compile a function according to the criteria, run the function on records, and give unique IDs to these entities.
 4. Verify accuracy: choose a random sample and manually check the false positive and false negative rates.
-5. A detailed documentation of the rationale of the criteria and codes.
+5. Describe: 1) who are the most productive authors in nonprofit studies? 2) Which are the most productive institutions in nonprofit studies?
+6. Remember to document everything in detail using a Jupyter Notebook!
 
-
+---
 ### <a name="a5"> Assignment 5: Network / text analysis (individual/group, 10% points) </a>
 
 Choose an assignment of your interest:
