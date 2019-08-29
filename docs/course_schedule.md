@@ -24,7 +24,7 @@ Text analysis in social sciences
 - [Week 13 Dec 2: Text analysis - Context aware and relation extraction (TBD)](#w13)
 - [Week 14 Dec 9: Text analysis - Example studies in social sciences (TBD)](#w14)
 
-[Reading Materials on Google Drive](#)
+[Reading Materials by Week](https://utexas.instructure.com/courses/1261330/files)
 
 ---
 ### <a name="w0"> Week 0 Pre-course </a>
