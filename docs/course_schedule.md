@@ -4,7 +4,7 @@
 Knowledge and hands-on fundamentals
 
 - [Week 1 Sep 9: Why this course?](#w1)
-- [Week 2 Sep 16: Knowledge graph and Resource Description Framework](#w2)
+- [Week 2 Sep 16: Knowledge graph, computation, and social science](#w2)
 - [Week 3 Sep 23: Good enough research practices in scientific computing (TBD)](#w3)
 - [Week 4 Sep 30: High-performance cloud computing and parallel computing (TBD)](#w4)
 - [Week 5 Oct 7: Algorithm and workflow for social scientists (TBD)](#w5)
@@ -55,11 +55,12 @@ Text analysis in social sciences
 
 
 ---
-### <a name="w2"> Week 2 Sep 16: Knowledge graph and Resource Description Framework </a>
+### <a name="w2"> Week 2 Sep 16: Knowledge graph, computation, and social science </a>
 
 #### Before class
 - Readings:
 	- Miller, Eric J. 2001. “An Introduction to the Resource Description Framework.” Journal of Library Administration 34 (3–4): 245–55. https://doi.org/10.1300/J111v34n03_04.
+	- Cioffi-Revilla, Claudio. 2017. “Computation and Social Science.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 - Software packages:
 	- Yu, Shih Yuan, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, and Mohammad Abdullah Al Faruque. 2019. “Pykg2vec: A Python Library for Knowledge Graph Embedding.” ArXiv:1906.04239 [Cs, Stat], June. http://arxiv.org/abs/1906.04239.
 	- Costabello, Luca, Sumit Pai, Chan Le Van, Rory McGrath, and Nick McCarthy. 2019. “AmpliGraph: A Library for Representation Learning on Knowledge Graphs,” March. https://doi.org/10.5281/zenodo.2595043.
@@ -125,7 +126,6 @@ Text analysis in social sciences
 - Readings:
 	- Bird, Steven, Ewan Klein, and Edward Loper. 2009. “Writing Structured Programs.” In Natural Language Processing with Python. Beijing ; Cambridge [Mass.]: O’Reilly.
 	- Cioffi-Revilla, Claudio. 2017a. “Automated Information Extraction.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
-	- ———. 2017b. “Computation and Social Science.” In Introduction to Computational Social Science. Texts in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50131-4.
 
 #### In class:
 - Discussion and lecture on readings.
