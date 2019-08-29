@@ -60,7 +60,7 @@ The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/
 3. Explain why the criteria can generate valid results.
 3. Compile a function according to the criteria, run the function on records, and give unique IDs to these entities.
 4. Verify accuracy: choose a random sample and manually check the false positive and false negative rates.
-5. Describe: 1) who are the most productive authors in nonprofit studies? 2) Which are the most productive institutions in nonprofit studies?
+5. Describe: 1) who are the most productive authors in nonprofit studies? 2) Which are the most productive institutions in nonprofit studies? 3) How you define "productive."
 6. Remember to document everything in detail using a Jupyter Notebook!
 
 Example studies using this dataset:
