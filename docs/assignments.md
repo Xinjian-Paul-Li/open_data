@@ -63,7 +63,7 @@ The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/
 5. Describe: 1) who are the most productive authors in nonprofit studies? 2) Which are the most productive institutions in nonprofit studies?
 6. Remember to document everything in detail using a Jupyter Notebook!
 
-Studies using this dataset:
+Example studies using this dataset:
 - Ma, Ji, and Sara Konrath. 2018. “A Century of Nonprofit Studies: Scaling the Knowledge of the Field.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 29 (6): 1139–58. https://doi.org/10.1007/s11266-018-00057-5.
 
 ---
