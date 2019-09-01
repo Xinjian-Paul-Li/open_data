@@ -54,7 +54,7 @@ Knowledge and skills practiced:
 Disambiguating entity is a common task in data preprocessing. For example, the University of Texas at Austin can be written as "UT Austin," "UT-Austin," or even "UTA." How can we recognize these records and give them a unique ID? This assignment will practice this ability.
 
 Tasks:
-The dataset provided to you is retrieved from [Scopus](https://dev.elsevier.com/index.html), one of the largest bibliographical databases in the world. Each line is a record of a published paper on nonprofit studies. You are expected to:
+[The dataset](https://utexas.instructure.com/files/50261524/download?download_frd=1) provided to you is retrieved from [Scopus](https://dev.elsevier.com/index.html), one of the largest bibliographical databases in the world. Each line is a record of a published paper on nonprofit studies. You are expected to:
 1. Generate a codebook of this dataset;
 2. Create criteria for disambiguating authors and affiliations.
 3. Explain why the criteria can generate valid results.
